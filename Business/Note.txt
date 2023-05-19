@@ -1,0 +1,8 @@
+﻿Log reflection ile yaz
+
+
+Son dersde biznes kodlarinin duzgun yazimlagina baxdim. Ilk once butun biznes kodlarini metodun icine yigdig, sonra her 
+yeni biznes kodu ucun yeni metod yaratdig. Sonra Biznes matoru yaratdig. Ve biznes metodlarini ora elave etdik. Ilk erroru one cixarir
+
+
+SUAL: Autofac'daki assemble kodu nedir?
