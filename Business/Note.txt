@@ -5,4 +5,8 @@ Son dersde biznes kodlarinin duzgun yazimlagina baxdim. Ilk once butun biznes ko
 yeni biznes kodu ucun yeni metod yaratdig. Sonra Biznes matoru yaratdig. Ve biznes metodlarini ora elave etdik. Ilk erroru one cixarir
 
 
+Cache: CrossCuttingConcerne Cache elave etdik ve elave edib silmek cache lerini yazdiq.
+Performans kodlari
+Tranzaksiya
+
 SUAL: Autofac'daki assemble kodu nedir?
